@@ -1,0 +1,22 @@
+## General ##
+
+## Java ##
+*.class
+doc/*
+*.gif
+*.log
+
+## Maven ##
+target/*
+
+## Eclipse ##
+.settings
+.project
+.classpath
+bin/*
+
+## GoogleCodeJamsFiles ##
+solution
+solution.txt
+*.in
+*SampleInput
