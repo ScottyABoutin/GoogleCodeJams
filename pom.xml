@@ -21,7 +21,7 @@
 		<junit.vintage.version>${junit.jupiter.version}</junit.vintage.version>
 		<mockito.version>2.24.0</mockito.version>
 		<guava.version>27.1-jre</guava.version>
-		<log4j2.version>2.11.2</log4j2.version>
+		<log4j2.version>2.13.3</log4j2.version>
 	</properties>
 
 	<dependencies>
