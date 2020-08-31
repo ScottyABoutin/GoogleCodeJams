@@ -1,0 +1,17 @@
+target/*
+*.class
+.svn
+.settings
+.project
+.classpath
+solution
+solution.txt
+*.in
+doc/*
+bin/*
+*SampleInput
+*.gif
+*/target/*
+*.log
+
+*.idea
