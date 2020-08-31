@@ -1,0 +1,3 @@
+Google is moving their source code to: https://codingcompetitions.withgoogle.com/codejam/archive
+
+Will need to update URLs, get inputs, etc.

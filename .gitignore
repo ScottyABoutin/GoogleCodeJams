@@ -22,5 +22,4 @@ bin/*
 ## GoogleCodeJamsFiles ##
 solution
 solution.txt
-*.in
 *SampleInput

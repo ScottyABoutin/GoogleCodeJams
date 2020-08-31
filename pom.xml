@@ -8,29 +8,21 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>googlecodejam</name>
-	<url>http://maven.apache.org</url>
+	<name>Google Code Jams</name>
+	<url>https://github.com/ScottyABoutin/GoogleCodeJams</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-<<<<<<< HEAD
 
 		<guava.version>29.0-jre</guava.version>
 		<log4j2.version>2.13.3</log4j2.version>
 		<junit.jupiter.version>5.6.2</junit.jupiter.version>
 		<junit.platform.version>1.6.2</junit.platform.version>
 		<mockito.version>3.5.7</mockito.version>
-=======
-		<junit.jupiter.version>5.4.1</junit.jupiter.version>
-		<junit.platform.version>1.4.1</junit.platform.version>
-		<junit.vintage.version>${junit.jupiter.version}</junit.vintage.version>
-		<mockito.version>2.24.0</mockito.version>
-		<guava.version>27.1-jre</guava.version>
-		<log4j2.version>2.11.2</log4j2.version>
->>>>>>> 6acd9b93807e7a0aa10fe762dd00c28aa4806ca2
+		<log4j2.version>2.13.3</log4j2.version>
 	</properties>
 
 	<dependencies>
@@ -47,15 +39,6 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-<<<<<<< HEAD
-=======
-			<groupId>org.junit.vintage</groupId>
-			<artifactId>junit-vintage-engine</artifactId>
-			<version>${junit.vintage.version}</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
->>>>>>> 6acd9b93807e7a0aa10fe762dd00c28aa4806ca2
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
 			<version>${mockito.version}</version>
