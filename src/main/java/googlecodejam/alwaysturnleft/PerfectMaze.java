@@ -262,7 +262,11 @@ public class PerfectMaze implements Iterable<CoordinateWalls> {
      * As an implementation note, this method uses the {@link #getInitialWallsState()} method to add
      * new locations that have not been traversed yet. It is up to subclasses to determine what the
      * initial state of the walls of a particular location is. By default, the state is that all
+<<<<<<< HEAD
      * walls are down. Subclasses are free to implement the getInitialWallsState method with any
+=======
+     * walls are down. Subclasses are free to implement the getInitailWallsState method with any
+>>>>>>> 6acd9b93807e7a0aa10fe762dd00c28aa4806ca2
      * valid type: this is guaranteed to be maintained correctly with the {@link WallsState}
      * enumerated type.
      * 

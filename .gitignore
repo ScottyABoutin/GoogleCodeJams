@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/*
 *.class
 .svn
@@ -15,3 +16,31 @@ bin/*
 *.log
 
 *.idea
+=======
+## General ##
+
+## Java ##
+*.class
+doc/*
+*.gif
+*.log
+
+## Maven ##
+target/*
+
+## Eclipse ##
+.settings
+.project
+.classpath
+bin/*
+<<<<<<< HEAD
+=======
+.factorypath
+>>>>>>> broke-git
+
+## GoogleCodeJamsFiles ##
+solution
+solution.txt
+*.in
+*SampleInput
+>>>>>>> 6acd9b93807e7a0aa10fe762dd00c28aa4806ca2
